@@ -1,7 +1,7 @@
 {
   "name": "mcp-fda",
   "version": "1.0.0",
-  "description": "MCP server for openFDA API \u2014 drugs, devices, food safety",
+  "description": "MCP server for openFDA API — drugs, devices, food safety",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
@@ -17,7 +17,7 @@
     "healthcare"
   ],
   "author": "",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "type": "module",
   "engines": {
     "node": ">=20"
