@@ -55,4 +55,4 @@ npx mcp-fda
 
 ## License
 
-MIT
+Apache-2.0
